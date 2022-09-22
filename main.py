@@ -2,6 +2,7 @@ import pytest
 
 
 def always_returns_true():
+    print("This function always returns True")
     return True
 
 
